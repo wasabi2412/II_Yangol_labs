@@ -1,0 +1,7 @@
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\bin\Debug\Lab_2_AI.exe.config
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\bin\Debug\Lab_2_AI.exe
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\bin\Debug\Lab_2_AI.pdb
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\obj\Debug\Lab_2_AI.csprojAssemblyReference.cache
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\obj\Debug\Lab_2_AI.csproj.CoreCompileInputs.cache
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\obj\Debug\Lab_2_AI.exe
+C:\Users\Wasabi\source\repos\Lab_2_AI\Lab_2_AI\obj\Debug\Lab_2_AI.pdb
